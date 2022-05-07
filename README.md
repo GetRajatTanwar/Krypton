@@ -1,9 +1,9 @@
 # Krypton - Web 3.0 Blockchain Application 
-![Krypt]( )
+![Krypton](https://ibb.co/5Kjc5sX)
 
 ## Introduction
 
-Using Web 3.0 methodologies, Solidity and Metamask.
+Using Web 3.0 Methodologies, Solidity and Metamask.
 
 ## Built with 
 
