@@ -15,13 +15,13 @@ const Footer = () => (
 
     <div className="flex justify-center items-center flex-col mt-5">
       <p className="text-white text-sm text-center">Come Join Us And Hear For The Unexpected Miracle</p>
-      <p className="text-white text-sm text-center font-medium mt-2">ASHI | GURPREET | RAJAT</p>
+      <p className="text-white text-sm text-center font-medium mt-2">ASHI | RAJAT |GURPREET</p>
     </div>
 
     <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5 " />
 
     <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-      <p className="text-white text-left text-xs">@getrajattanwar.github.io</p>
+      <p className="text-white text-left text-xs">@rajattanwarportfolio.vercel.app</p>
       <p className="text-white text-right text-xs">All Rights Reserved © | 2022</p>
     </div>
   </div>
